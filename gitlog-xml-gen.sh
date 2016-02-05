@@ -37,7 +37,7 @@ COMMITTER_EMAIL_ATTR=committeremail
 DATE_ATTR=datecommitted
 # file names
 DATE=$(date +"%y-%m-%d-%H-%M-%S")
-XML_FILE=scoreci_$DATE.xml
+XML_FILE=scmcommits_$DATE.xml
 TARGZ_FILE=scoreci_$DATE.tar.gz
 
 ## Create XML header

@@ -36,7 +36,7 @@ AUTHOR_EMAIL_ATTR=authoremail
 COMMITTER_EMAIL_ATTR=committeremail
 DATE_ATTR=datecommitted
 # file names
-DATE=$(date +"%y-%m-%d-%H-%MM-%S")
+DATE=$(date +"%y-%m-%d-%H-%M-%S")
 XML_FILE=scoreci_$DATE.xml
 TARGZ_FILE=scoreci_$DATE.tar.gz
 
